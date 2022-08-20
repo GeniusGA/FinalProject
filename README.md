@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/1ZCVGbu-1hYbdi5k8jO4vO-tyF9MKMnDW?usp=sh
 Finalize Reference +5
 
 https://colab.research.google.com/drive/1kuVAsAD0Vz4uNUoPeg-GGF6Moqjuflub?usp=sharing
+
+
+https://docs.google.com/document/d/1qSCWPFmRCakKZNc3oGJ3OR7BfEwPGrygPUv5HBjJswA/edit?usp=sharing
