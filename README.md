@@ -25,3 +25,6 @@ https://colab.research.google.com/drive/1kuVAsAD0Vz4uNUoPeg-GGF6Moqjuflub?usp=sh
 https://docs.google.com/document/d/1qSCWPFmRCakKZNc3oGJ3OR7BfEwPGrygPUv5HBjJswA/edit?usp=sharing
 
 https://teams.microsoft.com/l/meetup-join/19:meeting_Y2JkYmJkMmUtZDNmZi00ZWU1LWJkZDktMmQxNDRhZDc0Mzkz@thread.v2/0?context=%7B%22Tid%22:%22ad93a64d-ad0d-4ecd-b2fd-e53ce15965be%22,%22Oid%22:%227c2eb2f2-a223-493f-8842-4d2d6a99d77e%22%7D
+
+## For more clear explaniation
+https://docs.google.com/document/d/1IhWX1aXn18BEoJV68pqMwU5LJwICqnn5FUXWcf5USiE/edit?usp=sharing
