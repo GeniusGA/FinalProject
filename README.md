@@ -28,3 +28,7 @@ https://teams.microsoft.com/l/meetup-join/19:meeting_Y2JkYmJkMmUtZDNmZi00ZWU1LWJ
 
 ## For more clear explaniation
 https://docs.google.com/document/d/1IhWX1aXn18BEoJV68pqMwU5LJwICqnn5FUXWcf5USiE/edit?usp=sharing
+
+
+Coding Work
+https://colab.research.google.com/drive/1x82s0n4zzRRb9cGA_NbzVBqqr_O8C9mz?usp=sharing
